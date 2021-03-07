@@ -1,5 +1,17 @@
-### Hi there 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halvosaurus34&theme=radical&layout=compact" /><img align="center" src="https://github-readme-stats.vercel.app/api/?username=Halvosaurus34&theme=radical" />
+## Hi there 👋
+
+&nbsp;
+
+### My name is Levi and I am a Full stack developer focusing on MERN stack
+
+### ⚡ I’m constantly learning about everything I can about web development!
+
+### 😄 I currently graduated from a Trilogy bootcamp that focused on full-stack development and am currently looking for work!
+
+&nbsp;
+
+<img align="center" style="height:18rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halvosaurus34&theme=radical" /> <img align="center" style="height:18rem" src="https://github-readme-stats.vercel.app/api/?username=Halvosaurus34&theme=radical" />
+
 <!--
 **Halvosaurus34/Halvosaurus34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
