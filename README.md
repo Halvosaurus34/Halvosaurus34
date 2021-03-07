@@ -4,7 +4,7 @@
 
 ### My name is Levi and I am a Full stack developer focusing on MERN stack
 
-### ⚡ I’m constantly learning about everything I can about web development!
+### ⚡ I’m constantly learning everything I can about web development!
 
 ### 😄 I recently graduated from a Trilogy bootcamp that focused on full-stack development and am currently looking for work!
 
