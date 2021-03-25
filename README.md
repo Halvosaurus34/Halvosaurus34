@@ -6,7 +6,7 @@
 
 ### ⚡ I’m constantly learning everything I can about web development!
 
-### 😄 I recently graduated from a Trilogy bootcamp that focused on full-stack development and am currently looking for work!
+### 😄 I recently graduated from University of Toronto and am currently looking for work!
 
 &nbsp;
 
